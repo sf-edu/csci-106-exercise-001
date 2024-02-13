@@ -18,5 +18,5 @@
 
 ## License
 
-This exercise is distributed under the [MIT lisence](./LICENSE).
+This exercise is distributed under the [MIT license](./LICENSE).
 
